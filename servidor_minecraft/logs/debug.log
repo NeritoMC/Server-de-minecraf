@@ -809,3 +809,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Mar2025 02:18:22.981] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
 [11Mar2025 02:18:23.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrumerSama[/127.120.65.157:45965] logged in with entity id 2636 at (2.5, 106.0, -5.5)
 [11Mar2025 02:18:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama joined the game
+[11Mar2025 02:21:20.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 02:21:20.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 02:23:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set DrumerSama's game mode to Creative Mode
+[11Mar2025 02:23:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set DrumerSama's game mode to Survival Mode
+[11Mar2025 02:25:36.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama has made the advancement [Monster Hunter]
+[11Mar2025 02:25:57.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama was shot by Skeleton
+[11Mar2025 02:26:20.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 02:26:20.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 02:26:39.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC was slain by Zombie
+[11Mar2025 02:29:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrumerSama> borraran el servidor?
+[11Mar2025 02:29:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrumerSama> por lo de matyx no?
