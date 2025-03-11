@@ -1,67 +1,61 @@
-[10Mar2025 03:34:35.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[10Mar2025 03:34:35.699] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[10Mar2025 03:34:35.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[10Mar2025 03:34:35.774] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Server-de-minecraf/servidor_minecraft/config/fml.toml is not correct. Correcting
-[10Mar2025 03:34:35.776] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[10Mar2025 03:34:35.777] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[10Mar2025 03:34:35.777] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[10Mar2025 03:34:35.778] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[10Mar2025 03:34:35.790] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[10Mar2025 03:34:35.894] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[10Mar2025 03:34:36.094] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[10Mar2025 03:34:36.869] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[10Mar2025 03:34:37.205] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[10Mar2025 03:34:37.342] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[10Mar2025 03:34:42.475] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[10Mar2025 03:34:42.476] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[10Mar2025 03:34:42.485] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[10Mar2025 03:34:43.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Mar2025 03:34:43.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[10Mar2025 03:34:44.130] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10Mar2025 03:34:44.848] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[10Mar2025 03:34:45.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
-[10Mar2025 03:34:45.748] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
-[10Mar2025 03:34:46.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[10Mar2025 03:34:46.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Mar2025 03:34:46.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Mar2025 03:34:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Mar2025 03:34:46.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Mar2025 03:34:46.412] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Mar2025 03:34:46.449] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Mar2025 03:34:46.450] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Mar2025 03:34:46.450] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Mar2025 03:34:46.450] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Mar2025 03:34:46.471] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[10Mar2025 03:34:46.473] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[10Mar2025 03:34:46.473] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[10Mar2025 03:34:46.474] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[10Mar2025 03:34:46.474] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[10Mar2025 03:34:46.475] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[10Mar2025 03:34:46.475] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[10Mar2025 03:34:46.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Mar2025 03:34:54.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Mar2025 03:34:54.521] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[10Mar2025 03:34:55.050] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[10Mar2025 03:34:55.518] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[10Mar2025 03:34:56.005] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[10Mar2025 03:34:56.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[10Mar2025 03:34:57.084] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[10Mar2025 03:34:57.509] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[10Mar2025 03:34:58.007] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[10Mar2025 03:34:58.502] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[10Mar2025 03:34:59.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[10Mar2025 03:34:59.502] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[10Mar2025 03:35:00.009] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[10Mar2025 03:35:00.410] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5916 ms
-[10Mar2025 03:35:00.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.947s)! For help, type "help"
-[10Mar2025 03:35:00.424] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Mar2025 03:54:06.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10Mar2025 03:54:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10Mar2025 03:54:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10Mar2025 03:54:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10Mar2025 03:54:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10Mar2025 03:54:07.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10Mar2025 03:54:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Mar2025 03:54:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Mar2025 03:54:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10Mar2025 03:54:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Mar2025 01:50:59.634] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[11Mar2025 01:50:59.641] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[11Mar2025 01:50:59.644] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[11Mar2025 01:50:59.749] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[11Mar2025 01:50:59.997] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[11Mar2025 01:51:00.278] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[11Mar2025 01:51:01.425] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[11Mar2025 01:51:02.133] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[11Mar2025 01:51:02.268] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/Server-de-minecraf/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[11Mar2025 01:51:09.634] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[11Mar2025 01:51:09.635] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[11Mar2025 01:51:09.645] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[11Mar2025 01:51:10.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Mar2025 01:51:11.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[11Mar2025 01:51:11.902] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11Mar2025 01:51:14.613] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[11Mar2025 01:51:14.929] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[11Mar2025 01:51:15.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[11Mar2025 01:51:15.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Mar2025 01:51:15.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Mar2025 01:51:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Mar2025 01:51:15.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Mar2025 01:51:15.805] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Mar2025 01:51:15.874] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Mar2025 01:51:15.875] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Mar2025 01:51:15.875] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Mar2025 01:51:15.875] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Mar2025 01:51:15.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Mar2025 01:51:18.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Mar2025 01:51:19.868] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Mar2025 01:51:19.870] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Mar2025 01:51:19.957] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[11Mar2025 01:51:20.077] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1125 ms
+[11Mar2025 01:51:20.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.191s)! For help, type "help"
+[11Mar2025 01:51:20.113] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Mar2025 01:56:40.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeritoMC[/127.6.93.92:44443] logged in with entity id 24 at (17.089888081860778, 91.9375, -146.65434936177783)
+[11Mar2025 01:56:40.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC joined the game
+[11Mar2025 01:57:39.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeritoMC lost connection: Disconnected
+[11Mar2025 01:57:39.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC left the game
+[11Mar2025 01:57:53.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeritoMC[/127.6.93.92:44389] logged in with entity id 495 at (0.27099540758885104, 91.0, -118.43016687042389)
+[11Mar2025 01:57:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC joined the game
+[11Mar2025 01:58:08.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeritoMC lost connection: Kicked by an operator
+[11Mar2025 01:58:08.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC left the game
+[11Mar2025 01:58:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked NeritoMC: Kicked by an operator
+[11Mar2025 01:58:08.085] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Mar2025 01:58:22.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeritoMC[/127.6.93.92:54371] logged in with entity id 761 at (0.27099540758885104, 91.0, -118.43016687042389)
+[11Mar2025 01:58:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC joined the game
+[11Mar2025 01:58:37.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: c
+[11Mar2025 01:58:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode c NeritoMC<--[HERE]
+[11Mar2025 01:58:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: 1
+[11Mar2025 01:58:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode 1 NeritoMC<--[HERE]
+[11Mar2025 01:59:05.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[11Mar2025 01:59:43.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[11Mar2025 01:59:57.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set NeritoMC's game mode to Creative Mode
+[11Mar2025 02:00:11.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set NeritoMC's game mode to Survival Mode
+[11Mar2025 02:01:41.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeritoMC lost connection: Disconnected
+[11Mar2025 02:01:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC left the game
+[11Mar2025 02:10:30.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeritoMC[/127.6.93.92:48859] logged in with entity id 1502 at (11.536085582540478, 106.0, -38.96553089822853)
+[11Mar2025 02:10:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC joined the game
+[11Mar2025 02:18:23.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrumerSama[/127.120.65.157:45965] logged in with entity id 2636 at (2.5, 106.0, -5.5)
+[11Mar2025 02:18:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama joined the game
