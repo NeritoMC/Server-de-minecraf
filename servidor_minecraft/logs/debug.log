@@ -918,3 +918,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Mar2025 03:06:20.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Mar2025 03:06:20.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Mar2025 03:08:21.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1612, l='ServerLevel[world]', x=-6.92, y=96.00, z=-142.44] died, message: 'Villager was slain by Zombie'
+[11Mar2025 03:11:20.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:11:20.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:11:43.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrumerSama lost connection: Disconnected
+[11Mar2025 03:11:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama left the game
+[11Mar2025 03:16:20.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:16:20.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

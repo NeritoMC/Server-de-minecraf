@@ -148,3 +148,5 @@
 [11Mar2025 02:54:10.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeritoMC lost connection: Disconnected
 [11Mar2025 02:54:10.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeritoMC left the game
 [11Mar2025 03:08:21.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1612, l='ServerLevel[world]', x=-6.92, y=96.00, z=-142.44] died, message: 'Villager was slain by Zombie'
+[11Mar2025 03:11:43.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrumerSama lost connection: Disconnected
+[11Mar2025 03:11:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama left the game
