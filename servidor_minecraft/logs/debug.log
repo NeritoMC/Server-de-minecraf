@@ -924,3 +924,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Mar2025 03:11:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrumerSama left the game
 [11Mar2025 03:16:20.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Mar2025 03:16:20.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:21:20.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:21:20.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:26:20.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:26:20.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 03:31:20.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 03:31:20.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
