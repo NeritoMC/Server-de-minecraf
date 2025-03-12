@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "2ec23578-4eb8-31da-bf8e-d62fa2d071cc",
+    "name": "NeritoMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
